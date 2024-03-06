@@ -1,0 +1,14 @@
+C:\Users\Venkat\source\repos\Toy_Simulator\Toy_Simulator\bin\Debug\net8.0\Toy_Simulator.exe
+C:\Users\Venkat\source\repos\Toy_Simulator\Toy_Simulator\bin\Debug\net8.0\Toy_Simulator.deps.json
+C:\Users\Venkat\source\repos\Toy_Simulator\Toy_Simulator\bin\Debug\net8.0\Toy_Simulator.runtimeconfig.json
+C:\Users\Venkat\source\repos\Toy_Simulator\Toy_Simulator\bin\Debug\net8.0\Toy_Simulator.dll
+C:\Users\Venkat\source\repos\Toy_Simulator\Toy_Simulator\bin\Debug\net8.0\Toy_Simulator.pdb
+C:\Users\Venkat\source\repos\Toy_Simulator\Toy_Simulator\obj\Debug\net8.0\Toy_Simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Venkat\source\repos\Toy_Simulator\Toy_Simulator\obj\Debug\net8.0\Toy_Simulator.AssemblyInfoInputs.cache
+C:\Users\Venkat\source\repos\Toy_Simulator\Toy_Simulator\obj\Debug\net8.0\Toy_Simulator.AssemblyInfo.cs
+C:\Users\Venkat\source\repos\Toy_Simulator\Toy_Simulator\obj\Debug\net8.0\Toy_Simulator.csproj.CoreCompileInputs.cache
+C:\Users\Venkat\source\repos\Toy_Simulator\Toy_Simulator\obj\Debug\net8.0\Toy_Simulator.dll
+C:\Users\Venkat\source\repos\Toy_Simulator\Toy_Simulator\obj\Debug\net8.0\refint\Toy_Simulator.dll
+C:\Users\Venkat\source\repos\Toy_Simulator\Toy_Simulator\obj\Debug\net8.0\Toy_Simulator.pdb
+C:\Users\Venkat\source\repos\Toy_Simulator\Toy_Simulator\obj\Debug\net8.0\Toy_Simulator.genruntimeconfig.cache
+C:\Users\Venkat\source\repos\Toy_Simulator\Toy_Simulator\obj\Debug\net8.0\ref\Toy_Simulator.dll
